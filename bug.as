@@ -1,0 +1,1 @@
+This ActionScript code attempts to access a property of a null object, resulting in a runtime error.  The error occurs because the `myObject` variable is not properly initialized before attempting to access its `property`.
